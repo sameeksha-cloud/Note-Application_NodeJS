@@ -1,7 +1,7 @@
 # Note-Application_NodeJS
 This application is build using NodeJS packages . We can use this application to add, remove, list-out and read all the notes . 
 
-## Functionalies: 
+## Functionalities: 
 A user can do the following things with this Note Application are - 
 
 1. **Add** : User can add notes by providing title and body for it's notes. 
